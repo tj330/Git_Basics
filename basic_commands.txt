@@ -4,3 +4,5 @@
 4) git commit
 5) git revert HEAD
 6) git log
+7) git remote
+8) git push
